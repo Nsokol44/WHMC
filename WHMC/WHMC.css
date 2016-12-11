@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+}
+
+
+h1 {
+    padding: 20px;
+    text-align: center;
+    text-decoration: bold;
+    font-family: cursive;
+    color: white;
+}
+
+h2{
+	font-size: 18px;
+	color: white;
+	text-align: center;
+
+}
+
+h3{
+	font-size: 18px;
+	color: white;
+	text-align: center;
+
+}
+
+.LSU {
+	padding: 0px;
+    margin: left;
+    width: 15%;
+}
+
+.ConMan {
+	padding:0px;
+	float: right;
+    margin: right;
+    width: 15%;
+}
